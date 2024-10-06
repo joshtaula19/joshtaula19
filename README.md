@@ -1,5 +1,11 @@
 ## Hi there 👋
+My name is Josh! Welcome to my GitHub Profile!
 
+As I have just finished my time studying at Dev Academy Aotearoa, I've got some awesome stuff to share with you!
+
+During my time at Dev Academy Aotearoa, I developed a strong foundation in web development, learning and applying technologies such as HTML, CSS, JavaScript, React, Node.js, and TypeScript. Through hands-on learning, I gained valuable experience in both frontend and backend development, building dynamic and interactive applications.
+
+Throughout my journey, I worked on various projects that challenged me to solve real-world problems, including a full-stack travel itinerary app and more. These projects not only improved my technical skills but also taught me collaboration, problem-solving, and how to bring ideas to life through code.
 <!--
 **joshtaula19/joshtaula19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
