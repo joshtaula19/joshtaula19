@@ -1,7 +1,6 @@
 ## Hi there 👋
 My name is Josh! Welcome to my GitHub Profile!
 
-As I have just finished my time studying at Dev Academy Aotearoa, I've got some awesome stuff to share with you!
 
 During my time at Dev Academy Aotearoa, I developed a strong foundation in web development, learning and applying technologies such as HTML, CSS, JavaScript, React, Node.js, and TypeScript. Through hands-on learning, I gained valuable experience in both frontend and backend development, building dynamic and interactive applications.
 
